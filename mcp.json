@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "agentranking": {
+      "url": "https://agentranking.io/api/mcp"
+    },
+    "agentranking-telegram": {
+      "url": "https://agentranking.io/api/mcp/telegram"
+    },
+    "agentranking-financials": {
+      "url": "https://agentranking.io/api/mcp/financials"
+    }
+  }
+}

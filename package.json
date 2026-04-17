@@ -1,0 +1,31 @@
+{
+  "name": "agentranking-mcp",
+  "version": "1.1.0",
+  "description": "AgentRanking MCP server — discover, search, and rank ERC-8004 AI agents and Telegram bots",
+  "homepage": "https://agentranking.io/developers/mcp",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EmmanuelDumitrache/agentranking-mcp.git"
+  },
+  "license": "MIT",
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "ai-agents",
+    "erc-8004",
+    "agent-discovery",
+    "trust-score",
+    "verified-revenue",
+    "x402",
+    "defi",
+    "crypto",
+    "telegram-bots"
+  ],
+  "peerDependencies": {
+    "@modelcontextprotocol/sdk": "^1.29.0"
+  },
+  "devDependencies": {
+    "@modelcontextprotocol/sdk": "^1.29.0",
+    "typescript": "^5.0.0"
+  }
+}
