@@ -5,7 +5,7 @@
   "homepage": "https://agentranking.io/developers/mcp",
   "repository": {
     "type": "git",
-    "url": "https://github.com/EmmanuelDumitrache/agentranking-mcp.git"
+    "url": "https://github.com/agentranking/agentranking-mcp.git"
   },
   "license": "MIT",
   "keywords": [
